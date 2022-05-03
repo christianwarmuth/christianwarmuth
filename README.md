@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I`m Christian</h1>
 
-
-
-
-
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/christianwarmuth" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -19,36 +13,22 @@
 </div>  
   
 
-<br/>  
 
+## Github Stats & Streak
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=christianwarmuth&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=christianwarmuth&hide_border=true" alt="christianwarmuth" align="left" />
 
+</td><td valign="top" width="50%">
 
-##  Streak  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=christianwarmuth&hide_border=true" alt="christianwarmuth" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=christianwarmuth&show_icons=true&count_private=true&hide_border=true" align="right" />
 
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+</td></tr></table>
 
 
 
-  
-
-<br/>  
+## Skills
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -62,15 +42,4 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
-<br />
-
-<br/>  <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=christianwarmuth&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 
