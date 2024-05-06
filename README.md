@@ -34,6 +34,7 @@ At SAP Signavio, I work on fusing AI and business processes - using 'traditional
 
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats-delta-eight-25.vercel.app/api?username=christianwarmuth&show_icons=true&hide_border=true&rank_icon=github" align="right" />
+</td></tr></table>
 
 <!----
 ## Skills
