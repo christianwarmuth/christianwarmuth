@@ -28,12 +28,13 @@ At SAP Signavio, I work on fusing AI and business processes - using 'traditional
 
 <br />
 
-<tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=christianwarmuth&hide_border=true" alt="christianwarmuth" align="left" />
 
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats-delta-eight-25.vercel.app/api?username=christianwarmuth&show_icons=true&hide_border=true&rank_icon=github" align="right" />
+
 </td></tr></table>
 
 <!----
