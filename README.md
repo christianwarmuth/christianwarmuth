@@ -18,8 +18,8 @@ At SAP Signavio, I work on fusing AI and business processes - using 'traditional
 
 **About me**
 
-- 💼 AI Engineer at [SAP Signavio](https://signavio.com/)
-- 🎓 Created three online courses on (generative) AI, 6m+ views • 50K participants, check the latest course [here](https://open.hpi.de/courses/kizukunft2023)
+- 💼 Senior AI Developer at [SAP Signavio](https://signavio.com/)
+- 🎓 Creator and teacher of three online courses on (generative) AI, 6m+ views • 50K participants, check the latest course [here](https://open.hpi.de/courses/kizukunft2023)
 - ❤️ I love doing explorative [research on different AI-related topics and business processes](https://www.researchgate.net/profile/Christian-Warmuth-3), engineering software and [reading](https://www.goodreads.com/user/show/124342092-christian-warmuth)
 - 📝 I blog about AI, tech and innovation on [unhyped.io](https://unhyped.io)
 - 💬 For more personal projects and research, I also maintain a personal blog [here](https://christianwarmuth.de)
